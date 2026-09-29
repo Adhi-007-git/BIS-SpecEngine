@@ -1,0 +1,226 @@
+[
+  {
+    "standard_number": "IS 694:2010",
+    "title": "Polyvinyl Chloride (PVC) Insulated Unsheathed and Sheathed Cables/Cords with Rigid and Flexible Conductor for Rated Voltages up to and including 450/750 V",
+    "edition": "Fourth Revision",
+    "status": "Active / Verified Official Standard (Demo Seed)",
+    "scope": "Covers requirements and tests for PVC insulated single-core and multi-core cables for electric power and lighting in domestic and commercial buildings up to and including 450/750 V.",
+    "keywords": ["pvc cables", "building wiring", "electrical cables", "domestic cables", "lighting circuits", "water resistant sheath"],
+    "is_demo": true,
+    "demo_tag": "DEMO DATA",
+    "source": "Bureau of Indian Standards (BIS) Official Catalogue - Electrotechnical Department ETD 09",
+    "evidence_sample": {
+      "page": 4,
+      "section": "Clause 4.2 & Clause 16",
+      "text": "For cables installed in wet or damp indoor locations, PVC type ST1 or ST2 outer sheaths complying with moisture absorption and water resistance tests shall be specified to prevent insulation breakdown."
+    },
+    "compliance": [
+      {
+        "type": "Mandatory Certification",
+        "scheme": "BIS Product Certification Scheme (ISI Mark)",
+        "mandated_by": "Electrical Wires and Cables (Quality Control) Order",
+        "details": "Mandatory compliance under BIS Certification Scheme I, Schedule II for commercial sale and government procurement."
+      }
+    ],
+    "normative_references": [
+      {
+        "standard_number": "IS 8130:2013",
+        "title": "Conductors for Insulated Electric Cables and Flexible Cords",
+        "relation": "NORMATIVE_REFERENCE"
+      },
+      {
+        "standard_number": "IS 5831:1984",
+        "title": "PVC Insulation and Sheath of Electric Cables",
+        "relation": "NORMATIVE_REFERENCE"
+      }
+    ],
+    "test_methods": [
+      {
+        "standard_number": "IS 10810 (Part 33):1984",
+        "title": "Methods of Test for Cables - Part 33: Water Absorption Test (Gravimetric)",
+        "relation": "REQUIRES_TESTING_VIA"
+      },
+      {
+        "standard_number": "IS 10810 (Part 45):1984",
+        "title": "Methods of Test for Cables - Part 45: High Voltage Test",
+        "relation": "REQUIRES_TESTING_VIA"
+      },
+      {
+        "standard_number": "IS 10810 (Part 53):1988",
+        "title": "Methods of Test for Cables - Part 53: Flammability Test",
+        "relation": "REQUIRES_TESTING_VIA"
+      }
+    ],
+    "supersedes": "IS 694:1990"
+  },
+  {
+    "standard_number": "IS 1554 (Part 1):1988",
+    "title": "PVC Insulated (Heavy Duty) Electric Cables - Part 1: For Working Voltages up to and including 1100 V",
+    "edition": "Third Revision",
+    "status": "Active / Verified Official Standard (Demo Seed)",
+    "scope": "Covers requirements and tests for single core, two core, three core, four core and multi-core PVC insulated and PVC sheathed armored and unarmored electric cables for electricity supply in heavy duty commercial and industrial installations.",
+    "keywords": ["heavy duty cables", "armored cable", "waterproof electrical cable", "underground cable", "industrial wiring", "building mains"],
+    "is_demo": true,
+    "demo_tag": "DEMO DATA",
+    "source": "Bureau of Indian Standards (BIS) - ETD 09 Cables and Wires",
+    "evidence_sample": {
+      "page": 8,
+      "section": "Clause 12.3 & Clause 15.2",
+      "text": "Armoured heavy-duty cables laid in underground building ducts, basements, or water-prone areas must feature extruded PVC outer sheathing capable of resisting subterranean water ingress and mechanical abrasion."
+    },
+    "compliance": [
+      {
+        "type": "Mandatory Certification",
+        "scheme": "BIS Product Certification Scheme (ISI Mark)",
+        "mandated_by": "Quality Control Order (QCO) for Low Voltage Cables",
+        "details": "Conformity to IS 1554 (Part 1) is mandatory under Department for Promotion of Industry and Internal Trade (DPIIT) notification."
+      }
+    ],
+    "normative_references": [
+      {
+        "standard_number": "IS 3975:1999",
+        "title": "Low Carbon Galvanized Steel Wires, Formed Wires and Tapes for Armouring of Cables",
+        "relation": "NORMATIVE_REFERENCE"
+      },
+      {
+        "standard_number": "IS 732:2019",
+        "title": "Code of Practice for Electrical Wiring Installations",
+        "relation": "COMPLEMENTARY_CODE"
+      }
+    ],
+    "test_methods": [
+      {
+        "standard_number": "IS 10810 (Part 35):1984",
+        "title": "Methods of Test for Cables - Part 35: Cold Impact Test",
+        "relation": "REQUIRES_TESTING_VIA"
+      },
+      {
+        "standard_number": "IS 10810 (Part 33):1984",
+        "title": "Methods of Test for Cables - Part 33: Water Absorption Test",
+        "relation": "REQUIRES_TESTING_VIA"
+      }
+    ],
+    "supersedes": "IS 1554 (Part 1):1976"
+  },
+  {
+    "standard_number": "IS/IEC 60529:2001",
+    "title": "Degrees of Protection Provided by Enclosures (IP Code)",
+    "edition": "Reaffirmed 2019",
+    "status": "Active / Verified Harmonized Standard (Demo Seed)",
+    "scope": "Applies to the classification of degrees of protection provided by enclosures for electrical equipment with a rated voltage not exceeding 72.5 kV against ingress of solid foreign objects and water.",
+    "keywords": ["waterproof", "ip code", "ingress protection", "enclosure protection", "water resistance", "moisture protection", "ip67", "ip68"],
+    "is_demo": true,
+    "demo_tag": "DEMO DATA",
+    "source": "BIS Harmonized IEC Standard - Electrotechnical Department",
+    "evidence_sample": {
+      "page": 14,
+      "section": "Clause 14: Tests for Protection Against Water (Second Characteristic Numeral)",
+      "text": "Numeral 7 specifies protection against effects of temporary immersion in water up to 1 m depth. Numeral 8 specifies protection against continuous submersion in water under agreed conditions."
+    },
+    "compliance": [
+      {
+        "type": "Harmonized Testing Standard",
+        "scheme": "Performance Classification",
+        "mandated_by": "Referenced by CPWD & GeM specifications for outdoor/wet electrical installations",
+        "details": "Required to certify IP65/IP67/IP68 waterproof ratings for cable glands, junction boxes, and submersible terminations."
+      }
+    ],
+    "normative_references": [],
+    "test_methods": [
+      {
+        "standard_number": "IS/IEC 60529:2001 Cl. 14.2",
+        "title": "Immersion Tank Test for IPX7 and Continuous Pressure Water Test for IPX8",
+        "relation": "REQUIRES_TESTING_VIA"
+      }
+    ],
+    "supersedes": "IS 2147:1962"
+  },
+  {
+    "standard_number": "IS 732:2019",
+    "title": "Code of Practice for Electrical Wiring Installations",
+    "edition": "Fourth Revision",
+    "status": "Active / Verified Official Standard (Demo Seed)",
+    "scope": "Applies to the design, selection, erection, inspection and testing of electrical installations in residential, commercial, and industrial buildings.",
+    "keywords": ["electrical wiring", "building wiring code", "damp locations", "conduit wiring", "earthing", "procurement specification"],
+    "is_demo": true,
+    "demo_tag": "DEMO DATA",
+    "source": "BIS National Building Code (NBC) Electrotechnical Division",
+    "evidence_sample": {
+      "page": 22,
+      "section": "Section 522.3: Presence of Water or High Humidity",
+      "text": "Wiring systems shall be selected and erected so that no damage is caused by the ingress of water. Cables in damp situations or outside buildings shall be installed in watertight conduit systems or shall possess moisture-resistant sheathing complying with IS 1554 or IS 694."
+    },
+    "compliance": [
+      {
+        "type": "National Code Mandate",
+        "scheme": "National Electrical Code of India (NEC)",
+        "mandated_by": "Central Electricity Authority (CEA) Safety Regulations",
+        "details": "Mandatory for building safety approval under Central Electricity Authority Regulations, 2010."
+      }
+    ],
+    "normative_references": [
+      {
+        "standard_number": "IS 694:2010",
+        "title": "PVC Insulated Cables for Working Voltages up to 1100 V",
+        "relation": "NORMATIVE_REFERENCE"
+      },
+      {
+        "standard_number": "IS 1554 (Part 1):1988",
+        "title": "PVC Insulated Heavy Duty Electric Cables",
+        "relation": "NORMATIVE_REFERENCE"
+      },
+      {
+        "standard_number": "IS 3043:2018",
+        "title": "Code of Practice for Earthing",
+        "relation": "NORMATIVE_REFERENCE"
+      }
+    ],
+    "test_methods": [
+      {
+        "standard_number": "IS 732:2019 Cl. 61",
+        "title": "Verification and Testing of Completed Installations (Insulation Resistance & Loop Impedance)",
+        "relation": "REQUIRES_TESTING_VIA"
+      }
+    ],
+    "supersedes": "IS 732:1989"
+  },
+  {
+    "standard_number": "IS 7098 (Part 1):1988",
+    "title": "Crosslinked Polyethylene (XLPE) Insulated Thermoplastic Sheathed Cables - Part 1: For Working Voltages up to and including 1100 V",
+    "edition": "Reaffirmed 2020",
+    "status": "Active / Verified Official Standard (Demo Seed)",
+    "scope": "Specifies requirements for single, twin, three and multi-core XLPE insulated cables for electricity supply up to 1.1 kV with higher thermal and moisture endurance.",
+    "keywords": ["xlpe cable", "waterproof cable", "underground cable", "high temperature cable", "building riser"],
+    "is_demo": true,
+    "demo_tag": "DEMO DATA",
+    "source": "Bureau of Indian Standards (BIS) - ETD 09",
+    "evidence_sample": {
+      "page": 11,
+      "section": "Clause 14.1",
+      "text": "XLPE insulation provides superior moisture and thermal resistance (up to 90°C continuous conductor temperature) compared to PVC, recommended for wet conduit environments and flooded cable trenches."
+    },
+    "compliance": [
+      {
+        "type": "Mandatory Certification",
+        "scheme": "BIS Product Certification Scheme (ISI Mark)",
+        "mandated_by": "Quality Control Order (QCO)",
+        "details": "Mandatory under DPIIT Electrical Wires and Cables Order."
+      }
+    ],
+    "normative_references": [
+      {
+        "standard_number": "IS 8130:2013",
+        "title": "Conductors for Insulated Electric Cables and Flexible Cords",
+        "relation": "NORMATIVE_REFERENCE"
+      }
+    ],
+    "test_methods": [
+      {
+        "standard_number": "IS 10810 (Part 33):1984",
+        "title": "Water Absorption Test",
+        "relation": "REQUIRES_TESTING_VIA"
+      }
+    ],
+    "supersedes": null
+  }
+]

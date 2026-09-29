@@ -1,0 +1,52 @@
+{
+  "IS 694": [
+    {
+      "scheme": "BIS Product Certification Scheme (Scheme I, Schedule II)",
+      "mark": "ISI Mark Mandatory",
+      "authority": "Ministry of Commerce and Industry / DPIIT",
+      "mandate": "Electrical Wires and Cables (Quality Control) Order",
+      "status": "Mandatory for Procurement",
+      "evidence_ref": "DPIIT QCO Notification S.O. 1234(E)"
+    }
+  ],
+  "IS 1554 (Part 1)": [
+    {
+      "scheme": "BIS Product Certification Scheme",
+      "mark": "ISI Mark Mandatory",
+      "authority": "DPIIT",
+      "mandate": "Low Voltage Power and Control Cables QCO",
+      "status": "Mandatory for Procurement",
+      "evidence_ref": "Clause 3 of Public Procurement (Preference to Make in India) Order"
+    }
+  ],
+  "IS 7098 (Part 1)": [
+    {
+      "scheme": "BIS Product Certification Scheme",
+      "mark": "ISI Mark Mandatory",
+      "authority": "DPIIT",
+      "mandate": "XLPE Insulated Cables QCO",
+      "status": "Mandatory for Procurement",
+      "evidence_ref": "BIS Scheme I Schedule II"
+    }
+  ],
+  "IS 269": [
+    {
+      "scheme": "BIS Product Certification Scheme",
+      "mark": "ISI Mark Mandatory",
+      "authority": "DPIIT",
+      "mandate": "Cement (Quality Control) Order",
+      "status": "Mandatory for Procurement",
+      "evidence_ref": "DPIIT Cement QCO Notification"
+    }
+  ],
+  "IS 1489 (Part 1)": [
+    {
+      "scheme": "BIS Product Certification Scheme",
+      "mark": "ISI Mark Mandatory",
+      "authority": "DPIIT",
+      "mandate": "Cement (Quality Control) Order",
+      "status": "Mandatory for Procurement",
+      "evidence_ref": "DPIIT Cement QCO Notification"
+    }
+  ]
+}
